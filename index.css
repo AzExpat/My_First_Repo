@@ -1,0 +1,88 @@
+
+h2 {
+    font-family: 'Life Savers', cursive;  
+}
+h3{
+    font-family: 'Life Savers', cursive;
+  }
+.navbar {
+    width: 100%;
+    background-color: rgb(246, 67, 127);
+    overflow: auto;
+}
+.navbar a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+.navbar a:hover {
+    background-color:rgb(164, 27, 73);
+}
+.active {
+    background-color: mediumorchid;
+}
+/*sidebar stuff*/
+.sidebar {
+    width: 30%;
+    height: 805px;
+    float: left;
+}
+.top {
+    text-align: center;
+    height: 25%;
+    background-color: #ff9999;
+}
+.photo {
+    padding: 15px;
+}
+.bottom {
+    height: 75%;
+    padding-top: 20px;
+    background-color: #ff9999;
+}
+ul {
+    padding: 20px;
+}
+ul li {
+    background-color:lightpink;
+    margin: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+.main {
+    width: 70%;
+    float: left;
+    height: 825px;
+    background-color:mediumorchid;
+}
+h1 {
+    font-family: Festive, serif;
+}
+.meat {
+    display: inline-block;
+    background-color:mistyrose;
+}
+.left {
+    float: left;
+    padding: 15px;
+}
+p {
+    margin: 25px 50px;
+}
+.potatoes {
+    display: inline-block;
+    padding: 15px;
+    border-radius: 5px;
+}
+.gallery {
+    color: white;
+    text-align: center;
+}
+.footer {
+    background-color:rgb(164, 27, 73);
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+}
